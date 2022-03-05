@@ -1,5 +1,6 @@
 {
   "name": "guessing-game",
+  "author": "https://www.linkedin.com/in/wahyu-fatur-rizky",
   "version": "1.0.0",
   "description": "Guessing Game App",
   "main": "index.js",
